@@ -1,0 +1,62 @@
+
+scopa_summer.png
+size: 222,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 0, 144
+  size: 83, 111
+  orig: 83, 111
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 110, 22
+  size: 71, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+o
+  rotate: true
+  xy: 0, 60
+  size: 82, 108
+  orig: 83, 108
+  offset: 1, 0
+  index: -1
+p
+  rotate: true
+  xy: 113, 95
+  size: 87, 104
+  orig: 88, 105
+  offset: 1, 1
+  index: -1
+s
+  rotate: false
+  xy: 149, 184
+  size: 73, 109
+  orig: 73, 109
+  offset: 0, 0
+  index: -1
+scopa_d
+  rotate: true
+  xy: 0, 229
+  size: 361, 147
+  orig: 365, 152
+  offset: 2, 3
+  index: -1
+settebello
+  rotate: true
+  xy: 149, 295
+  size: 295, 71
+  orig: 295, 71
+  offset: 0, 0
+  index: -1
+xigua
+  rotate: true
+  xy: 0, 0
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+teshupai.png
+size: 745,831
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7/7_000
+  rotate: false
+  xy: 410, 492
+  size: 132, 205
+  orig: 150, 231
+  offset: 10, 14
+  index: -1
+7/7_001
+  rotate: false
+  xy: 410, 285
+  size: 132, 205
+  orig: 150, 231
+  offset: 10, 14
+  index: -1
+7/7_002
+  rotate: false
+  xy: 609, 624
+  size: 134, 205
+  orig: 150, 231
+  offset: 9, 14
+  index: -1
+7/7_003
+  rotate: false
+  xy: 2, 492
+  size: 134, 205
+  orig: 150, 231
+  offset: 9, 14
+  index: -1
+7/7_004
+  rotate: false
+  xy: 2, 285
+  size: 134, 205
+  orig: 150, 231
+  offset: 9, 14
+  index: -1
+7/7_005
+  rotate: false
+  xy: 138, 492
+  size: 134, 205
+  orig: 150, 231
+  offset: 9, 14
+  index: -1
+7/7_006
+  rotate: false
+  xy: 274, 286
+  size: 134, 204
+  orig: 150, 231
+  offset: 9, 14
+  index: -1
+7/7_007
+  rotate: false
+  xy: 274, 81
+  size: 134, 203
+  orig: 150, 231
+  offset: 9, 15
+  index: -1
+7/7_008
+  rotate: false
+  xy: 544, 284
+  size: 134, 202
+  orig: 150, 231
+  offset: 9, 15
+  index: -1
+7/7_009
+  rotate: true
+  xy: 544, 488
+  size: 134, 199
+  orig: 150, 231
+  offset: 9, 17
+  index: -1
+7/7_010
+  rotate: true
+  xy: 533, 148
+  size: 134, 203
+  orig: 150, 231
+  offset: 9, 15
+  index: -1
+7/7_011
+  rotate: false
+  xy: 2, 78
+  size: 134, 205
+  orig: 150, 231
+  offset: 9, 14
+  index: -1
+7/7_012
+  rotate: false
+  xy: 138, 285
+  size: 134, 205
+  orig: 150, 231
+  offset: 9, 14
+  index: -1
+7/7_013
+  rotate: false
+  xy: 274, 492
+  size: 134, 205
+  orig: 150, 231
+  offset: 9, 14
+  index: -1
+7/7_014
+  rotate: false
+  xy: 138, 78
+  size: 134, 205
+  orig: 150, 231
+  offset: 9, 14
+  index: -1
+denari
+  rotate: false
+  xy: 2, 2
+  size: 238, 74
+  orig: 238, 74
+  offset: 0, 0
+  index: -1
+jinbi/1
+  rotate: true
+  xy: 410, 53
+  size: 108, 120
+  orig: 121, 120
+  offset: 10, 0
+  index: -1
+jinbi/2
+  rotate: false
+  xy: 410, 163
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+jinbi/3
+  rotate: true
+  xy: 532, 38
+  size: 108, 120
+  orig: 121, 120
+  offset: 3, 0
+  index: -1
+jinbi/4
+  rotate: false
+  xy: 654, 26
+  size: 64, 120
+  orig: 121, 120
+  offset: 24, 0
+  index: -1
+jinbi/5
+  rotate: false
+  xy: 680, 366
+  size: 15, 120
+  orig: 121, 120
+  offset: 53, 0
+  index: -1
+jinbi/6
+  rotate: true
+  xy: 274, 15
+  size: 64, 120
+  orig: 121, 120
+  offset: 33, 0
+  index: -1
+settebello
+  rotate: false
+  xy: 2, 699
+  size: 605, 130
+  orig: 605, 130
+  offset: 0, 0
+  index: -1

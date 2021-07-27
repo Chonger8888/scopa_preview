@@ -1,0 +1,34 @@
+
+tili_kc.png
+size: 189,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 2, 66
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+t_b_g
+  rotate: false
+  xy: 104, 72
+  size: 83, 94
+  orig: 100, 100
+  offset: 8, 3
+  index: -1
+t_b_l
+  rotate: true
+  xy: 104, 2
+  size: 68, 79
+  orig: 68, 83
+  offset: 0, 2
+  index: -1
+tili
+  rotate: true
+  xy: 2, 12
+  size: 52, 77
+  orig: 62, 91
+  offset: 5, 7
+  index: -1

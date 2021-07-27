@@ -1,0 +1,34 @@
+
+scopa_hdcz.png
+size: 221,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scopa
+  rotate: true
+  xy: 2, 46
+  size: 408, 133
+  orig: 410, 134
+  offset: 1, 1
+  index: -1
+scopa_01
+  rotate: true
+  xy: 137, 56
+  size: 79, 82
+  orig: 80, 91
+  offset: 0, 3
+  index: -1
+settebello
+  rotate: true
+  xy: 137, 137
+  size: 317, 80
+  orig: 317, 80
+  offset: 0, 0
+  index: -1
+w-scopa-xx
+  rotate: false
+  xy: 137, 2
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1

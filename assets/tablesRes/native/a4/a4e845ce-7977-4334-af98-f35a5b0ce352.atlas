@@ -1,0 +1,62 @@
+
+scopa_hdsj.png
+size: 267,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!
+  rotate: false
+  xy: 138, 120
+  size: 39, 106
+  orig: 39, 106
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 72, 228
+  size: 102, 110
+  orig: 103, 111
+  offset: 0, 1
+  index: -1
+c
+  rotate: false
+  xy: 72, 7
+  size: 88, 108
+  orig: 88, 109
+  offset: 0, 1
+  index: -1
+o
+  rotate: false
+  xy: 162, 15
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+p
+  rotate: false
+  xy: 176, 233
+  size: 87, 105
+  orig: 89, 105
+  offset: 1, 0
+  index: -1
+s
+  rotate: false
+  xy: 72, 117
+  size: 64, 109
+  orig: 65, 109
+  offset: 1, 0
+  index: -1
+settebello
+  rotate: true
+  xy: 2, 2
+  size: 336, 68
+  orig: 337, 69
+  offset: 0, 1
+  index: -1
+shuizhu01
+  rotate: false
+  xy: 179, 152
+  size: 78, 79
+  orig: 82, 80
+  offset: 2, 1
+  index: -1

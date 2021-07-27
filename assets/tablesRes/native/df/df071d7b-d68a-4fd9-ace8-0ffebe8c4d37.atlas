@@ -1,0 +1,97 @@
+
+scopa_mfxy.png
+size: 1122,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!
+  rotate: true
+  xy: 1033, 22
+  size: 47, 87
+  orig: 47, 87
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 681, 69
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 684, 2
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+o
+  rotate: true
+  xy: 589, 7
+  size: 59, 93
+  orig: 59, 93
+  offset: 0, 0
+  index: -1
+p
+  rotate: false
+  xy: 2, 41
+  size: 55, 120
+  orig: 55, 120
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 287, 66
+  size: 73, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+scopa_01
+  rotate: false
+  xy: 759, 71
+  size: 358, 90
+  orig: 358, 90
+  offset: 0, 0
+  index: -1
+scopa_02
+  rotate: false
+  xy: 287, 3
+  size: 300, 61
+  orig: 300, 61
+  offset: 0, 0
+  index: -1
+scopa_d
+  rotate: false
+  xy: 59, 42
+  size: 226, 119
+  orig: 237, 128
+  offset: 5, 5
+  index: -1
+settebello
+  rotate: false
+  xy: 362, 68
+  size: 317, 93
+  orig: 317, 93
+  offset: 0, 0
+  index: -1
+settebello_01
+  rotate: false
+  xy: 2, 28
+  size: 231, 11
+  orig: 231, 11
+  offset: 0, 0
+  index: -1
+settebello_02
+  rotate: false
+  xy: 963, 2
+  size: 68, 67
+  orig: 72, 70
+  offset: 0, 3
+  index: -1
+settebello_d
+  rotate: false
+  xy: 774, 2
+  size: 187, 67
+  orig: 195, 75
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,132 @@
+
+dt_scopa_gowild.png
+size: 1525,658
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guipai
+  rotate: true
+  xy: 316, 294
+  size: 364, 244
+  orig: 364, 244
+  offset: 0, 0
+  index: -1
+guipai_g/gp_000
+  rotate: true
+  xy: 141, 13
+  size: 10, 37
+  orig: 370, 250
+  offset: 3, 152
+  index: -1
+guipai_g/gp_001
+  rotate: true
+  xy: 562, 299
+  size: 49, 102
+  orig: 370, 250
+  offset: 3, 100
+  index: -1
+guipai_g/gp_002
+  rotate: true
+  xy: 931, 0
+  size: 92, 177
+  orig: 370, 250
+  offset: 3, 47
+  index: -1
+guipai_g/gp_003
+  rotate: false
+  xy: 1166, 183
+  size: 132, 223
+  orig: 370, 250
+  offset: 3, 4
+  index: -1
+guipai_g/gp_004
+  rotate: true
+  xy: 1166, 8
+  size: 173, 240
+  orig: 370, 250
+  offset: 3, 2
+  index: -1
+guipai_g/gp_005
+  rotate: false
+  xy: 1304, 198
+  size: 209, 241
+  orig: 370, 250
+  offset: 3, 2
+  index: -1
+guipai_g/gp_006
+  rotate: true
+  xy: 1057, 408
+  size: 250, 245
+  orig: 370, 250
+  offset: 3, 2
+  index: -1
+guipai_g/gp_007
+  rotate: true
+  xy: 602, 22
+  size: 275, 246
+  orig: 370, 250
+  offset: 11, 2
+  index: -1
+guipai_g/gp_008
+  rotate: true
+  xy: 354, 1
+  size: 291, 246
+  orig: 370, 250
+  offset: 28, 2
+  index: -1
+guipai_g/gp_009
+  rotate: true
+  xy: 562, 350
+  size: 308, 246
+  orig: 370, 250
+  offset: 45, 2
+  index: -1
+guipai_g/gp_010
+  rotate: true
+  xy: 810, 356
+  size: 302, 245
+  orig: 370, 250
+  offset: 65, 3
+  index: -1
+guipai_g/gp_011
+  rotate: true
+  xy: 931, 94
+  size: 260, 233
+  orig: 370, 250
+  offset: 107, 15
+  index: -1
+guipai_g/gp_012
+  rotate: true
+  xy: 1304, 441
+  size: 217, 221
+  orig: 370, 250
+  offset: 150, 23
+  index: -1
+guipai_g/gp_013
+  rotate: true
+  xy: 141, 25
+  size: 177, 211
+  orig: 370, 250
+  offset: 190, 23
+  index: -1
+guipai_g/gp_014
+  rotate: false
+  xy: 0, 1
+  size: 139, 201
+  orig: 370, 250
+  offset: 228, 23
+  index: -1
+sc_2
+  rotate: true
+  xy: 850, 82
+  size: 272, 79
+  orig: 276, 83
+  offset: 2, 2
+  index: -1
+scopa2_01
+  rotate: true
+  xy: 0, 204
+  size: 454, 314
+  orig: 454, 314
+  offset: 0, 0
+  index: -1

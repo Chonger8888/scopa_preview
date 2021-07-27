@@ -1,0 +1,118 @@
+
+girl.png
+size: 700,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 483, 152
+  size: 192, 230
+  orig: 192, 230
+  offset: 0, 0
+  index: -1
+body_x
+  rotate: true
+  xy: 2, 176
+  size: 189, 479
+  orig: 189, 479
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: true
+  xy: 260, 108
+  size: 66, 146
+  orig: 77, 165
+  offset: 10, 1
+  index: -1
+foot_r
+  rotate: true
+  xy: 513, 2
+  size: 76, 112
+  orig: 78, 114
+  offset: 1, 1
+  index: -1
+g
+  rotate: true
+  xy: 468, 80
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+girl_eye_l
+  rotate: false
+  xy: 318, 49
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+girl_eye_r
+  rotate: true
+  xy: 408, 80
+  size: 94, 58
+  orig: 94, 59
+  offset: 0, 1
+  index: -1
+hair
+  rotate: true
+  xy: 2, 18
+  size: 156, 141
+  orig: 159, 144
+  offset: 1, 1
+  index: -1
+hand_l1
+  rotate: false
+  xy: 441, 384
+  size: 135, 91
+  orig: 137, 93
+  offset: 1, 1
+  index: -1
+hand_l2
+  rotate: true
+  xy: 397, 3
+  size: 75, 114
+  orig: 76, 115
+  offset: 1, 1
+  index: -1
+hand_l3
+  rotate: false
+  xy: 145, 54
+  size: 113, 120
+  orig: 114, 122
+  offset: 1, 1
+  index: -1
+hand_r1
+  rotate: false
+  xy: 312, 368
+  size: 127, 107
+  orig: 129, 109
+  offset: 1, 1
+  index: -1
+hand_r2
+  rotate: true
+  xy: 578, 386
+  size: 89, 102
+  orig: 91, 104
+  offset: 1, 1
+  index: -1
+hand_r3
+  rotate: true
+  xy: 145, 4
+  size: 48, 171
+  orig: 50, 173
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 367
+  size: 308, 331
+  orig: 308, 331
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 312, 477
+  size: 364, 221
+  orig: 381, 223
+  offset: 17, 2
+  index: -1

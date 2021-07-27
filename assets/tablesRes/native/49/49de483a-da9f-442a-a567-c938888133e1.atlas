@@ -1,0 +1,48 @@
+
+scopa_ct.png
+size: 422,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 0, 3
+  size: 107, 113
+  orig: 109, 114
+  offset: 1, 1
+  index: -1
+c
+  rotate: true
+  xy: 322, 0
+  size: 75, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 227, 13
+  size: 93, 103
+  orig: 95, 103
+  offset: 1, 0
+  index: -1
+p
+  rotate: false
+  xy: 322, 77
+  size: 80, 96
+  orig: 81, 97
+  offset: 0, 1
+  index: -1
+s
+  rotate: true
+  xy: 109, 22
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+settebello
+  rotate: false
+  xy: 0, 118
+  size: 311, 55
+  orig: 311, 55
+  offset: 0, 0
+  index: -1

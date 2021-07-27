@@ -1,0 +1,83 @@
+
+scopa_ygzy.png
+size: 642,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!
+  rotate: false
+  xy: 461, 89
+  size: 39, 91
+  orig: 39, 91
+  offset: 0, 0
+  index: -1
+a
+  rotate: true
+  xy: 414, 0
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 565, 127
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 502, 103
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+p
+  rotate: true
+  xy: 0, 0
+  size: 67, 97
+  orig: 67, 97
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 381, 81
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+scopa_d
+  rotate: false
+  xy: 0, 69
+  size: 379, 111
+  orig: 379, 111
+  offset: 0, 0
+  index: -1
+settebello
+  rotate: false
+  xy: 99, 6
+  size: 313, 61
+  orig: 313, 61
+  offset: 0, 0
+  index: -1
+yf1
+  rotate: true
+  xy: 565, 54
+  size: 71, 76
+  orig: 73, 78
+  offset: 1, 1
+  index: -1
+yf2
+  rotate: false
+  xy: 501, 1
+  size: 49, 86
+  orig: 51, 88
+  offset: 1, 1
+  index: -1
+yf3
+  rotate: true
+  xy: 552, 12
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+public_jb.png
+size: 684,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GaoGuangDian1
+  rotate: true
+  xy: 601, 7
+  size: 118, 64
+  orig: 126, 67
+  offset: 4, 1
+  index: -1
+gq01
+  rotate: false
+  xy: 2, 2
+  size: 123, 123
+  orig: 125, 125
+  offset: 1, 2
+  index: -1
+jinbi/1
+  rotate: false
+  xy: 249, 5
+  size: 108, 120
+  orig: 121, 120
+  offset: 10, 0
+  index: -1
+jinbi/2
+  rotate: true
+  xy: 127, 4
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+jinbi/3
+  rotate: false
+  xy: 359, 5
+  size: 108, 120
+  orig: 121, 120
+  offset: 3, 0
+  index: -1
+jinbi/4
+  rotate: false
+  xy: 469, 5
+  size: 64, 120
+  orig: 121, 120
+  offset: 24, 0
+  index: -1
+jinbi/5
+  rotate: false
+  xy: 667, 5
+  size: 15, 120
+  orig: 121, 120
+  offset: 53, 0
+  index: -1
+jinbi/6
+  rotate: false
+  xy: 535, 5
+  size: 64, 120
+  orig: 121, 120
+  offset: 33, 0
+  index: -1

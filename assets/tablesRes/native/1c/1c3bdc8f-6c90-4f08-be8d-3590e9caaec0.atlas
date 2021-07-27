@@ -1,0 +1,62 @@
+
+scopa_hyhk.png
+size: 1141,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scopa
+  rotate: false
+  xy: 339, 18
+  size: 352, 75
+  orig: 539, 107
+  offset: 111, 15
+  index: -1
+scopa_d
+  rotate: false
+  xy: 2, 205
+  size: 533, 107
+  orig: 539, 107
+  offset: 3, 0
+  index: -1
+set_g01
+  rotate: false
+  xy: 537, 95
+  size: 324, 217
+  orig: 340, 270
+  offset: 12, 31
+  index: -1
+set_g02
+  rotate: true
+  xy: 863, 7
+  size: 305, 217
+  orig: 340, 270
+  offset: 21, 31
+  index: -1
+settebello_01
+  rotate: false
+  xy: 2, 2
+  size: 335, 94
+  orig: 348, 106
+  offset: 6, 7
+  index: -1
+settebello_02
+  rotate: false
+  xy: 2, 98
+  size: 347, 105
+  orig: 348, 106
+  offset: 0, 1
+  index: -1
+settebello_03
+  rotate: true
+  xy: 1082, 19
+  size: 293, 57
+  orig: 348, 106
+  offset: 26, 28
+  index: -1
+w-scopa-xx
+  rotate: false
+  xy: 351, 171
+  size: 32, 32
+  orig: 40, 40
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,111 @@
+
+scopa_jia.png
+size: 1091,441
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 907, 25
+  size: 55, 130
+  orig: 156, 156
+  offset: 50, 13
+  index: -1
+glow_b
+  rotate: false
+  xy: 580, 51
+  size: 190, 190
+  orig: 200, 200
+  offset: 5, 5
+  index: -1
+gq01
+  rotate: false
+  xy: 117, 194
+  size: 245, 245
+  orig: 250, 250
+  offset: 3, 3
+  index: -1
+gx01
+  rotate: true
+  xy: 2, 152
+  size: 287, 113
+  orig: 299, 113
+  offset: 7, 0
+  index: -1
+jia
+  rotate: false
+  xy: 772, 121
+  size: 136, 133
+  orig: 156, 156
+  offset: 9, 11
+  index: -1
+scp_b/scp_b006
+  rotate: true
+  xy: 117, 152
+  size: 40, 51
+  orig: 268, 242
+  offset: 113, 93
+  index: -1
+scp_b/scp_b008
+  rotate: true
+  xy: 772, 16
+  size: 103, 133
+  orig: 268, 242
+  offset: 76, 60
+  index: -1
+scp_b/scp_b010
+  rotate: true
+  xy: 2, 5
+  size: 145, 183
+  orig: 268, 242
+  offset: 55, 35
+  index: -1
+scp_b/scp_b012
+  rotate: true
+  xy: 914, 82
+  size: 176, 171
+  orig: 268, 242
+  offset: 41, 24
+  index: -1
+scp_b/scp_b014
+  rotate: true
+  xy: 555, 243
+  size: 196, 183
+  orig: 268, 242
+  offset: 34, 16
+  index: -1
+scp_b/scp_b016
+  rotate: false
+  xy: 187, 2
+  size: 203, 190
+  orig: 268, 242
+  offset: 33, 11
+  index: -1
+scp_b/scp_b018
+  rotate: true
+  xy: 364, 227
+  size: 212, 189
+  orig: 268, 242
+  offset: 30, 10
+  index: -1
+scp_b/scp_b020
+  rotate: true
+  xy: 392, 16
+  size: 209, 186
+  orig: 268, 242
+  offset: 33, 10
+  index: -1
+scp_b/scp_b022
+  rotate: false
+  xy: 740, 256
+  size: 172, 183
+  orig: 268, 242
+  offset: 36, 12
+  index: -1
+scp_b/scp_b024
+  rotate: false
+  xy: 914, 260
+  size: 175, 179
+  orig: 268, 242
+  offset: 35, 16
+  index: -1

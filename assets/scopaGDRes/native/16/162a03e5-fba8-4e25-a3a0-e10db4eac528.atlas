@@ -1,0 +1,20 @@
+
+jiqiren.png
+size: 196,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+robot
+  rotate: true
+  xy: 2, 2
+  size: 131, 144
+  orig: 131, 146
+  offset: 0, 0
+  index: -1
+robot_eye
+  rotate: true
+  xy: 148, 78
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1

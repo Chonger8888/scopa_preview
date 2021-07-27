@@ -1,0 +1,69 @@
+
+shoupai.png
+size: 1001,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g01
+  rotate: true
+  xy: 474, 7
+  size: 192, 287
+  orig: 194, 289
+  offset: 1, 1
+  index: -1
+g01_1
+  rotate: true
+  xy: 474, 201
+  size: 263, 403
+  orig: 263, 405
+  offset: 0, 1
+  index: -1
+gc01
+  rotate: true
+  xy: 2, 2
+  size: 462, 470
+  orig: 512, 512
+  offset: 26, 21
+  index: -1
+jinbi/1
+  rotate: true
+  xy: 763, 91
+  size: 108, 120
+  orig: 121, 120
+  offset: 10, 0
+  index: -1
+jinbi/2
+  rotate: true
+  xy: 879, 343
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+jinbi/3
+  rotate: false
+  xy: 879, 221
+  size: 108, 120
+  orig: 121, 120
+  offset: 3, 0
+  index: -1
+jinbi/4
+  rotate: false
+  xy: 885, 82
+  size: 64, 120
+  orig: 121, 120
+  offset: 24, 0
+  index: -1
+jinbi/5
+  rotate: true
+  xy: 879, 204
+  size: 15, 120
+  orig: 121, 120
+  offset: 53, 0
+  index: -1
+jinbi/6
+  rotate: true
+  xy: 763, 25
+  size: 64, 120
+  orig: 121, 120
+  offset: 33, 0
+  index: -1

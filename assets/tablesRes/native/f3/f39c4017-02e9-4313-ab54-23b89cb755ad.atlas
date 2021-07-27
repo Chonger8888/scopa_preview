@@ -1,0 +1,69 @@
+
+scopa_mrjj.png
+size: 468,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!
+  rotate: true
+  xy: 242, 83
+  size: 37, 80
+  orig: 37, 80
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 339, 136
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 242, 122
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+lz
+  rotate: false
+  xy: 2, 73
+  size: 238, 226
+  orig: 280, 240
+  offset: 12, 14
+  index: -1
+o
+  rotate: false
+  xy: 242, 205
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+o_1
+  rotate: false
+  xy: 427, 276
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+p
+  rotate: false
+  xy: 389, 53
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 339, 218
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+settebello
+  rotate: false
+  xy: 2, 2
+  size: 385, 69
+  orig: 385, 69
+  offset: 0, 0
+  index: -1

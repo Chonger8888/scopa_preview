@@ -1,0 +1,139 @@
+
+dt_scopone.png
+size: 844,844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b01
+  rotate: false
+  xy: 458, 622
+  size: 214, 220
+  orig: 214, 220
+  offset: 0, 0
+  index: -1
+b02
+  rotate: false
+  xy: 2, 283
+  size: 237, 243
+  orig: 237, 243
+  offset: 0, 0
+  index: -1
+b03
+  rotate: false
+  xy: 241, 324
+  size: 158, 202
+  orig: 158, 202
+  offset: 0, 0
+  index: -1
+b04
+  rotate: false
+  xy: 2, 72
+  size: 164, 209
+  orig: 164, 209
+  offset: 0, 0
+  index: -1
+noe_01
+  rotate: false
+  xy: 2, 528
+  size: 454, 314
+  orig: 454, 314
+  offset: 0, 0
+  index: -1
+noe_02_2
+  rotate: false
+  xy: 674, 648
+  size: 168, 194
+  orig: 168, 194
+  offset: 0, 0
+  index: -1
+noe_03
+  rotate: false
+  xy: 2, 2
+  size: 352, 68
+  orig: 352, 69
+  offset: 0, 1
+  index: -1
+pai_g/pai_g000
+  rotate: false
+  xy: 661, 567
+  size: 178, 53
+  orig: 230, 233
+  offset: 44, 6
+  index: -1
+pai_g/pai_g001
+  rotate: true
+  xy: 736, 152
+  size: 183, 76
+  orig: 230, 233
+  offset: 39, 6
+  index: -1
+pai_g/pai_g002
+  rotate: true
+  xy: 512, 128
+  size: 188, 99
+  orig: 230, 233
+  offset: 34, 6
+  index: -1
+pai_g/pai_g003
+  rotate: true
+  xy: 613, 143
+  size: 192, 121
+  orig: 230, 233
+  offset: 30, 7
+  index: -1
+pai_g/pai_g004
+  rotate: true
+  xy: 168, 83
+  size: 198, 142
+  orig: 230, 233
+  offset: 24, 10
+  index: -1
+pai_g/pai_g005
+  rotate: false
+  xy: 458, 470
+  size: 201, 150
+  orig: 230, 233
+  offset: 20, 25
+  index: -1
+pai_g/pai_g006
+  rotate: false
+  xy: 401, 318
+  size: 200, 150
+  orig: 230, 233
+  offset: 15, 48
+  index: -1
+pai_g/pai_g007
+  rotate: false
+  xy: 312, 166
+  size: 198, 150
+  orig: 230, 233
+  offset: 10, 71
+  index: -1
+pai_g/pai_g008
+  rotate: false
+  xy: 603, 337
+  size: 193, 131
+  orig: 230, 233
+  offset: 8, 95
+  index: -1
+pai_g/pai_g009
+  rotate: false
+  xy: 530, 18
+  size: 186, 108
+  orig: 230, 233
+  offset: 8, 118
+  index: -1
+pai_g/pai_g010
+  rotate: false
+  xy: 312, 78
+  size: 179, 86
+  orig: 230, 233
+  offset: 8, 141
+  index: -1
+pai_g/pai_g011
+  rotate: false
+  xy: 356, 13
+  size: 172, 63
+  orig: 230, 233
+  offset: 8, 164
+  index: -1

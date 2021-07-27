@@ -1,0 +1,48 @@
+
+scopa_aj.png
+size: 959,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scopa
+  rotate: false
+  xy: 2, 3
+  size: 433, 192
+  orig: 433, 192
+  offset: 0, 0
+  index: -1
+scopa_01
+  rotate: false
+  xy: 516, 13
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+settebello
+  rotate: false
+  xy: 595, 30
+  size: 362, 69
+  orig: 398, 94
+  offset: 20, 13
+  index: -1
+settebello2
+  rotate: false
+  xy: 516, 101
+  size: 397, 94
+  orig: 397, 94
+  offset: 0, 0
+  index: -1
+settebello_01
+  rotate: true
+  xy: 437, 2
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+settebello_02
+  rotate: true
+  xy: 437, 65
+  size: 130, 77
+  orig: 131, 77
+  offset: 1, 0
+  index: -1
