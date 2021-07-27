@@ -1,0 +1,69 @@
+
+scopa_sm.png
+size: 353,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 113
+  size: 119, 135
+  orig: 121, 137
+  offset: 1, 2
+  index: -1
+c
+  rotate: true
+  xy: 2, 6
+  size: 105, 122
+  orig: 107, 123
+  offset: 0, 1
+  index: -1
+mz
+  rotate: true
+  xy: 244, 147
+  size: 101, 65
+  orig: 101, 65
+  offset: 0, 0
+  index: -1
+o
+  rotate: true
+  xy: 126, 11
+  size: 103, 126
+  orig: 105, 127
+  offset: 1, 1
+  index: -1
+p
+  rotate: false
+  xy: 123, 116
+  size: 119, 132
+  orig: 121, 133
+  offset: 1, 1
+  index: -1
+s
+  rotate: false
+  xy: 254, 2
+  size: 97, 143
+  orig: 99, 145
+  offset: 1, 2
+  index: -1
+settebello
+  rotate: false
+  xy: 2, 250
+  size: 279, 63
+  orig: 279, 63
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 283, 266
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: true
+  xy: 311, 212
+  size: 52, 36
+  orig: 53, 38
+  offset: 0, 1
+  index: -1

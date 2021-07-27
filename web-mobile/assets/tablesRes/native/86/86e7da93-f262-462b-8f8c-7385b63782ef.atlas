@@ -1,0 +1,55 @@
+
+scopa_sjy.png
+size: 640,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scopa
+  rotate: false
+  xy: 238, 128
+  size: 373, 107
+  orig: 373, 107
+  offset: 0, 0
+  index: -1
+scopa_01
+  rotate: false
+  xy: 2, 2
+  size: 234, 233
+  orig: 234, 233
+  offset: 0, 0
+  index: -1
+settebello
+  rotate: false
+  xy: 339, 67
+  size: 299, 59
+  orig: 299, 59
+  offset: 0, 0
+  index: -1
+settebello_01
+  rotate: false
+  xy: 408, 37
+  size: 32, 28
+  orig: 32, 29
+  offset: 0, 1
+  index: -1
+settebello_02
+  rotate: true
+  xy: 376, 36
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+w-scopa-xx
+  rotate: false
+  xy: 339, 31
+  size: 35, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+xx01
+  rotate: true
+  xy: 238, 28
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1

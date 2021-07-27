@@ -1,0 +1,104 @@
+
+scopa_tnsg.png
+size: 1143,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 742, 16
+  size: 65, 62
+  orig: 66, 63
+  offset: 0, 1
+  index: -1
+a
+  rotate: false
+  xy: 934, 51
+  size: 98, 105
+  orig: 98, 105
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 1034, 3
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: true
+  xy: 816, 48
+  size: 108, 116
+  orig: 159, 152
+  offset: 28, 0
+  index: -1
+feiji_c01
+  rotate: false
+  xy: 443, 11
+  size: 159, 76
+  orig: 159, 152
+  offset: 0, 76
+  index: -1
+feiji_c02
+  rotate: false
+  xy: 655, 80
+  size: 159, 76
+  orig: 159, 152
+  offset: 0, 76
+  index: -1
+o
+  rotate: true
+  xy: 346, 2
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+p
+  rotate: true
+  xy: 651, 7
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+s
+  rotate: true
+  xy: 1034, 72
+  size: 84, 107
+  orig: 84, 107
+  offset: 0, 0
+  index: -1
+s_caidai
+  rotate: false
+  xy: 2, 5
+  size: 342, 151
+  orig: 342, 151
+  offset: 0, 0
+  index: -1
+s_xx01
+  rotate: true
+  xy: 851, 21
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+s_xx02
+  rotate: false
+  xy: 604, 21
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+s_xx03
+  rotate: false
+  xy: 809, 14
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+settebello
+  rotate: false
+  xy: 346, 89
+  size: 307, 67
+  orig: 307, 67
+  offset: 0, 0
+  index: -1

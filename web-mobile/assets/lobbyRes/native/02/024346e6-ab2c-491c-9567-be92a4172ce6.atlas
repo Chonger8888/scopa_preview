@@ -1,0 +1,111 @@
+
+kbx.png
+size: 987,661
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 836, 195
+  size: 126, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+Glow
+  rotate: false
+  xy: 706, 303
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bx_cd
+  rotate: false
+  xy: 444, 66
+  size: 203, 163
+  orig: 203, 163
+  offset: 0, 0
+  index: -1
+bx_h
+  rotate: false
+  xy: 2, 2
+  size: 180, 159
+  orig: 181, 160
+  offset: 1, 0
+  index: -1
+bx_k
+  rotate: false
+  xy: 483, 231
+  size: 221, 200
+  orig: 222, 201
+  offset: 1, 0
+  index: -1
+gq01
+  rotate: false
+  xy: 836, 70
+  size: 123, 123
+  orig: 125, 125
+  offset: 2, 1
+  index: -1
+qq
+  rotate: false
+  xy: 836, 323
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xxlizi/xxlizi_02
+  rotate: false
+  xy: 649, 48
+  size: 185, 181
+  orig: 250, 250
+  offset: 27, 35
+  index: -1
+xxlizi/xxlizi_03
+  rotate: false
+  xy: 234, 40
+  size: 208, 195
+  orig: 250, 250
+  offset: 17, 27
+  index: -1
+xxlizi/xxlizi_04
+  rotate: false
+  xy: 248, 237
+  size: 233, 202
+  orig: 250, 250
+  offset: 5, 21
+  index: -1
+xxlizi/xxlizi_05
+  rotate: false
+  xy: 248, 441
+  size: 248, 218
+  orig: 250, 250
+  offset: 0, 12
+  index: -1
+xxlizi/xxlizi_06
+  rotate: true
+  xy: 2, 163
+  size: 250, 230
+  orig: 250, 250
+  offset: 0, 6
+  index: -1
+xxlizi/xxlizi_07
+  rotate: false
+  xy: 498, 433
+  size: 240, 226
+  orig: 250, 250
+  offset: 0, 1
+  index: -1
+xxlizi/xxlizi_08
+  rotate: false
+  xy: 2, 415
+  size: 244, 244
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+xxlizi/xxlizi_09
+  rotate: true
+  xy: 740, 453
+  size: 206, 245
+  orig: 250, 250
+  offset: 39, 3
+  index: -1

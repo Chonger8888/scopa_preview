@@ -1,0 +1,90 @@
+
+scopa_htys.png
+size: 321,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 132, 154
+  size: 75, 94
+  orig: 75, 94
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 209, 153
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+heye1
+  rotate: false
+  xy: 219, 11
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+heye2
+  rotate: false
+  xy: 2, 101
+  size: 128, 147
+  orig: 128, 147
+  offset: 0, 0
+  index: -1
+o
+  rotate: false
+  xy: 2, 2
+  size: 89, 97
+  orig: 89, 97
+  offset: 0, 0
+  index: -1
+p
+  rotate: false
+  xy: 156, 11
+  size: 61, 93
+  orig: 61, 93
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 93, 4
+  size: 61, 95
+  orig: 61, 95
+  offset: 0, 0
+  index: -1
+settebello
+  rotate: false
+  xy: 2, 250
+  size: 278, 57
+  orig: 278, 57
+  offset: 0, 0
+  index: -1
+shuizhu01
+  rotate: false
+  xy: 219, 72
+  size: 78, 79
+  orig: 82, 80
+  offset: 2, 1
+  index: -1
+wa
+  rotate: false
+  xy: 280, 190
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 132, 106
+  size: 40, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 282, 230
+  size: 37, 77
+  orig: 37, 77
+  offset: 0, 0
+  index: -1

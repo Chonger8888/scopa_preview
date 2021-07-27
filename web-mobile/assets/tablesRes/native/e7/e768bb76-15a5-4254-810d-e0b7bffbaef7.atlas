@@ -1,0 +1,55 @@
+
+scopa_kbx.png
+size: 500,390
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow
+  rotate: false
+  xy: 365, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bx_cd
+  rotate: false
+  xy: 2, 2
+  size: 203, 163
+  orig: 203, 163
+  offset: 0, 0
+  index: -1
+bx_h
+  rotate: true
+  xy: 204, 208
+  size: 180, 159
+  orig: 181, 160
+  offset: 1, 0
+  index: -1
+bx_k
+  rotate: true
+  xy: 2, 167
+  size: 221, 200
+  orig: 222, 201
+  offset: 1, 0
+  index: -1
+bx_s
+  rotate: true
+  xy: 365, 237
+  size: 151, 133
+  orig: 151, 133
+  offset: 0, 0
+  index: -1
+gq01
+  rotate: false
+  xy: 207, 83
+  size: 123, 123
+  orig: 125, 125
+  offset: 2, 1
+  index: -1
+suo
+  rotate: true
+  xy: 332, 4
+  size: 101, 135
+  orig: 101, 135
+  offset: 0, 0
+  index: -1

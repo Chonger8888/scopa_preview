@@ -1,0 +1,55 @@
+
+dt_playnow.png
+size: 610,610
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+now_01
+  rotate: false
+  xy: 2, 295
+  size: 454, 313
+  orig: 454, 313
+  offset: 0, 0
+  index: -1
+now_02
+  rotate: false
+  xy: 2, 2
+  size: 428, 231
+  orig: 443, 302
+  offset: 15, 47
+  index: -1
+now_03
+  rotate: false
+  xy: 432, 8
+  size: 137, 105
+  orig: 137, 105
+  offset: 0, 0
+  index: -1
+now_04
+  rotate: true
+  xy: 432, 115
+  size: 118, 94
+  orig: 118, 94
+  offset: 0, 0
+  index: -1
+now_05
+  rotate: false
+  xy: 533, 195
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+now_06
+  rotate: true
+  xy: 458, 235
+  size: 373, 73
+  orig: 373, 75
+  offset: 0, 1
+  index: -1
+now_it
+  rotate: true
+  xy: 533, 249
+  size: 359, 72
+  orig: 359, 72
+  offset: 0, 0
+  index: -1

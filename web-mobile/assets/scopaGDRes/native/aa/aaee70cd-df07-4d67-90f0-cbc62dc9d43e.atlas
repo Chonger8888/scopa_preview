@@ -1,0 +1,125 @@
+
+jiesuan_en.png
+size: 1523,770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 972, 45
+  size: 254, 252
+  orig: 256, 256
+  offset: 1, 2
+  index: -1
+draw
+  rotate: false
+  xy: 2, 28
+  size: 336, 111
+  orig: 336, 111
+  offset: 0, 0
+  index: -1
+fk
+  rotate: true
+  xy: 929, 121
+  size: 42, 39
+  orig: 64, 64
+  offset: 13, 12
+  index: -1
+glow03
+  rotate: true
+  xy: 1371, 145
+  size: 152, 150
+  orig: 160, 150
+  offset: 4, 0
+  index: -1
+lost_hg
+  rotate: true
+  xy: 1228, 92
+  size: 205, 141
+  orig: 206, 141
+  offset: 0, 0
+  index: -1
+lost_hg_d
+  rotate: false
+  xy: 989, 494
+  size: 510, 274
+  orig: 544, 302
+  offset: 17, 14
+  index: -1
+lost_ht
+  rotate: false
+  xy: 2, 565
+  size: 985, 203
+  orig: 985, 203
+  offset: 0, 0
+  index: -1
+lost_jb_d
+  rotate: false
+  xy: 989, 299
+  size: 415, 193
+  orig: 415, 193
+  offset: 0, 0
+  index: -1
+lost_lb01
+  rotate: true
+  xy: 1406, 372
+  size: 120, 89
+  orig: 120, 89
+  offset: 0, 0
+  index: -1
+lost_lb02
+  rotate: false
+  xy: 736, 48
+  size: 191, 115
+  orig: 192, 115
+  offset: 0, 0
+  index: -1
+lost_yl
+  rotate: false
+  xy: 2, 251
+  size: 551, 107
+  orig: 551, 108
+  offset: 0, 0
+  index: -1
+win_hg
+  rotate: false
+  xy: 340, 5
+  size: 208, 134
+  orig: 208, 134
+  offset: 0, 0
+  index: -1
+win_ht
+  rotate: false
+  xy: 2, 360
+  size: 985, 203
+  orig: 985, 203
+  offset: 0, 0
+  index: -1
+win_jb_d
+  rotate: false
+  xy: 555, 165
+  size: 415, 193
+  orig: 415, 193
+  offset: 0, 0
+  index: -1
+win_lb02
+  rotate: false
+  xy: 550, 31
+  size: 184, 132
+  orig: 184, 132
+  offset: 0, 0
+  index: -1
+win_lb1
+  rotate: false
+  xy: 1228, 2
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+win_yw
+  rotate: false
+  xy: 2, 141
+  size: 540, 108
+  orig: 540, 108
+  offset: 0, 0
+  index: -1

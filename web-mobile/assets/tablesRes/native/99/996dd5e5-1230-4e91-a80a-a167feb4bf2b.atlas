@@ -1,0 +1,69 @@
+
+scopa_dx.png
+size: 837,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao_y
+  rotate: false
+  xy: 637, 71
+  size: 76, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+cao_z
+  rotate: false
+  xy: 580, 5
+  size: 86, 55
+  orig: 87, 55
+  offset: 1, 0
+  index: -1
+dao_y
+  rotate: true
+  xy: 668, 0
+  size: 69, 76
+  orig: 71, 78
+  offset: 0, 1
+  index: -1
+dao_z
+  rotate: false
+  xy: 746, 20
+  size: 91, 102
+  orig: 93, 103
+  offset: 1, 1
+  index: -1
+scopa
+  rotate: false
+  xy: 0, 4
+  size: 277, 118
+  orig: 277, 118
+  offset: 0, 0
+  index: -1
+scopa_d
+  rotate: false
+  xy: 279, 62
+  size: 356, 60
+  orig: 356, 60
+  offset: 0, 0
+  index: -1
+settebello1
+  rotate: false
+  xy: 279, 3
+  size: 299, 57
+  orig: 299, 57
+  offset: 0, 0
+  index: -1
+xiaohua
+  rotate: false
+  xy: 715, 93
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 715, 72
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1

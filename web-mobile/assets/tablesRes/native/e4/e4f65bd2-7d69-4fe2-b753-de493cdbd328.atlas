@@ -1,0 +1,90 @@
+
+scopa_tgcq.png
+size: 425,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 409, 146
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 110, 52
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 133, 53
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 177, 66
+  size: 77, 96
+  orig: 79, 97
+  offset: 1, 1
+  index: -1
+c
+  rotate: false
+  xy: 256, 69
+  size: 72, 93
+  orig: 73, 95
+  offset: 1, 1
+  index: -1
+o
+  rotate: true
+  xy: 0, 51
+  size: 111, 108
+  orig: 115, 111
+  offset: 2, 2
+  index: -1
+p
+  rotate: false
+  xy: 330, 70
+  size: 77, 92
+  orig: 79, 93
+  offset: 1, 1
+  index: -1
+s
+  rotate: false
+  xy: 110, 65
+  size: 65, 97
+  orig: 67, 99
+  offset: 0, 1
+  index: -1
+settebello
+  rotate: false
+  xy: 171, 8
+  size: 253, 55
+  orig: 255, 57
+  offset: 1, 1
+  index: -1
+xuegao
+  rotate: true
+  xy: 0, 0
+  size: 49, 66
+  orig: 51, 68
+  offset: 1, 1
+  index: -1
+xx
+  rotate: false
+  xy: 125, 2
+  size: 44, 48
+  orig: 54, 56
+  offset: 5, 6
+  index: -1
+xx2
+  rotate: true
+  xy: 68, 0
+  size: 49, 55
+  orig: 61, 62
+  offset: 6, 6
+  index: -1

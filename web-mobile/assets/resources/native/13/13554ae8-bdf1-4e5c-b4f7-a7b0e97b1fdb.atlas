@@ -1,0 +1,83 @@
+
+level-up.png
+size: 893,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: true
+  xy: 0, 143
+  size: 242, 283
+  orig: 242, 283
+  offset: 0, 0
+  index: -1
+c2
+  rotate: true
+  xy: 622, 0
+  size: 161, 182
+  orig: 161, 182
+  offset: 0, 0
+  index: -1
+hengtiao
+  rotate: false
+  xy: 285, 228
+  size: 608, 157
+  orig: 608, 157
+  offset: 0, 0
+  index: -1
+hong_d
+  rotate: false
+  xy: 285, 22
+  size: 335, 204
+  orig: 335, 204
+  offset: 0, 0
+  index: -1
+huangguan
+  rotate: false
+  xy: 0, 7
+  size: 208, 134
+  orig: 208, 134
+  offset: 0, 0
+  index: -1
+level-up
+  rotate: false
+  xy: 622, 163
+  size: 245, 63
+  orig: 245, 63
+  offset: 0, 0
+  index: -1
+sp1
+  rotate: false
+  xy: 210, 56
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+sp2
+  rotate: true
+  xy: 210, 36
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+sp3
+  rotate: true
+  xy: 232, 59
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+sp4
+  rotate: false
+  xy: 232, 72
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: false
+  xy: 210, 90
+  size: 38, 51
+  orig: 41, 53
+  offset: 2, 1
+  index: -1

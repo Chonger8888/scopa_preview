@@ -1,0 +1,48 @@
+
+scopa_wsj.png
+size: 614,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scopa
+  rotate: false
+  xy: 2, 87
+  size: 452, 159
+  orig: 452, 159
+  offset: 0, 0
+  index: -1
+scopa_01
+  rotate: true
+  xy: 341, 8
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+settebello
+  rotate: false
+  xy: 2, 2
+  size: 337, 83
+  orig: 337, 83
+  offset: 0, 0
+  index: -1
+settebello_01
+  rotate: true
+  xy: 416, 59
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+settebello_02
+  rotate: false
+  xy: 456, 85
+  size: 156, 161
+  orig: 161, 161
+  offset: 5, 0
+  index: -1
+settebello_03
+  rotate: false
+  xy: 443, 38
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
