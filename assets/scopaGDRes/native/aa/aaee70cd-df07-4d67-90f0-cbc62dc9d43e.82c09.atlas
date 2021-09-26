@@ -1,0 +1,139 @@
+
+jiesuan_en.png
+size: 1162,1210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 700, 26
+  size: 254, 252
+  orig: 256, 256
+  offset: 1, 2
+  index: -1
+draw
+  rotate: false
+  xy: 783, 477
+  size: 336, 111
+  orig: 336, 111
+  offset: 0, 0
+  index: -1
+fk
+  rotate: false
+  xy: 424, 0
+  size: 42, 39
+  orig: 64, 64
+  offset: 13, 12
+  index: -1
+glow03
+  rotate: false
+  xy: 987, 1060
+  size: 152, 150
+  orig: 160, 150
+  offset: 4, 0
+  index: -1
+lost_hg
+  rotate: true
+  xy: 987, 853
+  size: 205, 141
+  orig: 206, 141
+  offset: 0, 0
+  index: -1
+lost_hg_d
+  rotate: true
+  xy: 424, 41
+  size: 510, 274
+  orig: 544, 302
+  offset: 17, 14
+  index: -1
+lost_ht
+  rotate: false
+  xy: 0, 1007
+  size: 985, 203
+  orig: 985, 203
+  offset: 0, 0
+  index: -1
+lost_jb_d
+  rotate: true
+  xy: 783, 590
+  size: 415, 193
+  orig: 415, 193
+  offset: 0, 0
+  index: -1
+lost_jb_d_D
+  rotate: false
+  xy: 205, 553
+  size: 576, 225
+  orig: 576, 225
+  offset: 0, 0
+  index: -1
+lost_lb01
+  rotate: true
+  xy: 978, 597
+  size: 120, 89
+  orig: 120, 89
+  offset: 0, 0
+  index: -1
+lost_lb02
+  rotate: false
+  xy: 954, 29
+  size: 191, 115
+  orig: 192, 115
+  offset: 0, 0
+  index: -1
+lost_yl
+  rotate: true
+  xy: 205, 0
+  size: 551, 107
+  orig: 551, 108
+  offset: 0, 0
+  index: -1
+win_hg
+  rotate: false
+  xy: 954, 146
+  size: 208, 134
+  orig: 208, 134
+  offset: 0, 0
+  index: -1
+win_ht
+  rotate: true
+  xy: 0, 20
+  size: 985, 203
+  orig: 985, 203
+  offset: 0, 0
+  index: -1
+win_jb_d
+  rotate: false
+  xy: 700, 282
+  size: 415, 193
+  orig: 415, 193
+  offset: 0, 0
+  index: -1
+win_jb_d_D
+  rotate: false
+  xy: 205, 780
+  size: 576, 225
+  orig: 576, 225
+  offset: 0, 0
+  index: -1
+win_lb02
+  rotate: false
+  xy: 978, 719
+  size: 184, 132
+  orig: 184, 132
+  offset: 0, 0
+  index: -1
+win_lb1
+  rotate: true
+  xy: 1069, 599
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+win_yw
+  rotate: true
+  xy: 314, 11
+  size: 540, 108
+  orig: 540, 108
+  offset: 0, 0
+  index: -1

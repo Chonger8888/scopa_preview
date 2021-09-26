@@ -1,0 +1,41 @@
+
+tili_jinbi_kc.png
+size: 218,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: true
+  xy: 135, 60
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+jinbi_g
+  rotate: false
+  xy: 0, 102
+  size: 133, 134
+  orig: 143, 143
+  offset: 5, 5
+  index: -1
+t_b_g
+  rotate: false
+  xy: 135, 142
+  size: 83, 94
+  orig: 100, 100
+  offset: 8, 3
+  index: -1
+tili
+  rotate: true
+  xy: 102, 6
+  size: 52, 77
+  orig: 62, 91
+  offset: 5, 7
+  index: -1
