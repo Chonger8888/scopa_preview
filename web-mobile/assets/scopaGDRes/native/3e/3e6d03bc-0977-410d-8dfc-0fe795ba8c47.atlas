@@ -1,0 +1,41 @@
+
+pai_boom.png
+size: 257,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fjb_g
+  rotate: false
+  xy: 186, 14
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+g_d2
+  rotate: true
+  xy: 0, 0
+  size: 52, 82
+  orig: 64, 100
+  offset: 6, 9
+  index: -1
+gm
+  rotate: false
+  xy: 138, 4
+  size: 46, 48
+  orig: 52, 52
+  offset: 2, 2
+  index: -1
+jinbi
+  rotate: false
+  xy: 226, 19
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: false
+  xy: 84, 0
+  size: 52, 52
+  orig: 56, 56
+  offset: 2, 2
+  index: -1

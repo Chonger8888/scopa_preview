@@ -1,0 +1,111 @@
+
+scopa_dwsj.png
+size: 967,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!
+  rotate: true
+  xy: 644, 225
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 792, 222
+  size: 92, 72
+  orig: 92, 72
+  offset: 0, 0
+  index: -1
+c
+  rotate: true
+  xy: 570, 229
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1
+o
+  rotate: true
+  xy: 718, 225
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+p
+  rotate: true
+  xy: 171, 231
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 886, 222
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+scopa
+  rotate: false
+  xy: 2, 134
+  size: 424, 95
+  orig: 426, 97
+  offset: 1, 1
+  index: -1
+scopa1
+  rotate: false
+  xy: 2, 20
+  size: 418, 112
+  orig: 429, 119
+  offset: 5, 4
+  index: -1
+scopa2
+  rotate: false
+  xy: 428, 114
+  size: 499, 106
+  orig: 512, 109
+  offset: 8, 2
+  index: -1
+scopa_lizi1
+  rotate: false
+  xy: 2, 265
+  size: 29, 29
+  orig: 30, 29
+  offset: 1, 0
+  index: -1
+scopa_lizi2
+  rotate: false
+  xy: 33, 260
+  size: 40, 34
+  orig: 42, 34
+  offset: 1, 0
+  index: -1
+settebello
+  rotate: false
+  xy: 245, 231
+  size: 323, 63
+  orig: 323, 63
+  offset: 0, 0
+  index: -1
+settebello_1
+  rotate: false
+  xy: 75, 259
+  size: 52, 35
+  orig: 52, 37
+  offset: 0, 1
+  index: -1
+settebello_d
+  rotate: false
+  xy: 422, 2
+  size: 503, 110
+  orig: 519, 115
+  offset: 8, 3
+  index: -1
+xx
+  rotate: false
+  xy: 129, 254
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

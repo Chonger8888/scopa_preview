@@ -1,0 +1,83 @@
+
+scopa_bx.png
+size: 210,577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 139, 324
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 139, 241
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+o
+  rotate: true
+  xy: 93, 19
+  size: 74, 108
+  orig: 75, 109
+  offset: 1, 1
+  index: -1
+p
+  rotate: false
+  xy: 139, 409
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 139, 158
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+scopa_d
+  rotate: true
+  xy: 0, 144
+  size: 433, 99
+  orig: 437, 101
+  offset: 2, 2
+  index: -1
+settebello
+  rotate: false
+  xy: 0, 95
+  size: 205, 47
+  orig: 205, 48
+  offset: 0, 0
+  index: -1
+settebello_d
+  rotate: true
+  xy: 101, 177
+  size: 311, 36
+  orig: 311, 36
+  offset: 0, 0
+  index: -1
+xuehua
+  rotate: false
+  xy: 101, 490
+  size: 81, 87
+  orig: 83, 89
+  offset: 1, 1
+  index: -1
+xuehua1
+  rotate: false
+  xy: 93, 0
+  size: 17, 17
+  orig: 24, 18
+  offset: 0, 1
+  index: -1
+xueren
+  rotate: false
+  xy: 0, 3
+  size: 91, 90
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
